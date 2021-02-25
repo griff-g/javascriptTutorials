@@ -9,7 +9,7 @@
 // The division of two numbers are : YOUR_ANSWER
 // The remainder of two numbes are : YOUR_ANSWER
 // The square of number is: YOUR_ANSWER
-
+// The cube of the number is: YOUR_ANSWER
 
 // ==================================== //
 
