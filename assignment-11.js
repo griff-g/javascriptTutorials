@@ -6,7 +6,6 @@ switch (animal) {
   case "fish":
     console.log("this is a pet animal");
     break;
-
   case "rhino":
   case "tiger":
     console.log("this is a zoo animal");
