@@ -18,3 +18,8 @@
 // animals(1, 2, 3) ➞ 22
 
 // animals(5, 2, 8) ➞ 50
+var x = function (chickens, cows, pigs) {
+  return chickens * 2 + cows * 4 + pigs * 4;
+};
+var output = x(5, 2, 8);
+console.log(`total legs ${output}`);
